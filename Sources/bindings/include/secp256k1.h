@@ -11,4 +11,5 @@
 #include "../secp256k1/include/secp256k1_whitelist.h"
 #include "../secp256k1/include/secp256k1_musig.h"
 #include "../secp256k1/include/secp256k1_ecdsa_adaptor.h"
+#include "../secp256k1/src/scalar_impl.h"
 #include "../secp256k1/include/secp256k1.h"
